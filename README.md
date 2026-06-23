@@ -42,10 +42,8 @@ The repository is organized into topic-wise folders, making it easy to navigate 
 ### Java Basics
 
 - ✅ Factorial Number
-- ⏳ Prime Number
-- ⏳ Fibonacci Number
 
-> More topics will be added as I continue my learning journey.
+
 
 ---
 
