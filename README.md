@@ -1,92 +1,63 @@
-# ☕ Java Interview Questions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="100" alt="Java Logo"/>
+</p>
 
+<h1 align="center">☕ Java Interview Questions</h1>
 
+<p align="center">
+  <b>A curated collection of Java interview questions and coding problems with clean, well-structured solutions.</b>
+</p>
 
-A curated collection of Java interview questions and coding problems with clean, well-structured solutions.
-
-
-
-This repository documents my Java learning journey through consistent practice while strengthening problem-solving skills and building a solid foundation for technical interviews.
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge"/>
+</p>
 
 ---
-
-
 
 ## 📖 About
 
-
-
-The repository is continuously updated as I learn new Java concepts and solve interview-oriented problems. Every solution focuses on clean code, readability, and practical implementation.
-
-
+This repository documents my Java learning journey through consistent practice and interview-oriented problem solving. It contains clean, organized Java solutions that focus on building strong programming fundamentals and improving coding skills.
 
 ---
-
-
-
-## 📂 Repository Structure
-
-
-
-The repository is organized into topic-wise folders, making it easy to navigate and explore different Java concepts and coding problems.
-
-
-
----
-
-
 
 ## 🎯 Objectives
 
-
-
 - Strengthen Java fundamentals.
-
 - Improve logical and analytical thinking.
-
 - Practice writing clean and efficient Java code.
-
-- Prepare for coding interviews.
-
+- Prepare for technical interviews.
 - Track my learning journey consistently.
-
-
 
 ---
 
+## 📂 Repository Structure
 
+The repository is organized into topic-wise folders, making it easy to navigate and explore Java concepts and coding problems.
+
+---
 
 ## 🛠️ Tech Stack
 
-
-
-- Java
-
-- Git
-
-- GitHub
-
-- IntelliJ IDEA
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
+</p>
 
 ---
-
-
 
 ## 📈 Progress
 
-
-
 This repository is actively maintained and updated as I continue learning and practicing Java.
-
-
 
 ---
 
+## 🤝 Contributing
 
+Suggestions and improvements are always welcome. Feel free to fork the repository, open an issue, or submit a pull request.
 
-⭐ If you find this repository helpful, consider giving it a star.
+---
 
+<p align="center">
+  ⭐ If you find this repository helpful, consider giving it a star!
+</p>
