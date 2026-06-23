@@ -37,7 +37,15 @@ This repository documents my Java learning journey through consistent practice a
 
 The repository is organized into topic-wise folders, making it easy to navigate and explore Java concepts and coding problems.
 
-        --- Factorial Number
+## 📚 Topics
+
+### Java Basics
+
+- ✅ Factorial Number
+- ⏳ Prime Number
+- ⏳ Fibonacci Number
+
+> More topics will be added as I continue my learning journey.
 
 ---
 
