@@ -20,6 +20,7 @@
 
 This repository documents my Java learning journey through consistent practice and interview-oriented problem solving. It contains clean, organized Java solutions that focus on building strong programming fundamentals and improving coding skills.
 
+        -- Factorial Number Code
 ---
 
 ## 🎯 Objectives
