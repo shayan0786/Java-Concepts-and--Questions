@@ -37,6 +37,8 @@ This repository documents my Java learning journey through consistent practice a
 
 The repository is organized into topic-wise folders, making it easy to navigate and explore Java concepts and coding problems.
 
+        --- Factorial Number
+
 ---
 
 ## 🛠️ Tech Stack
