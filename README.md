@@ -1,4 +1,4 @@
-\# ☕ Java Interview Questions
+# ☕ Java Interview Questions
 
 
 
@@ -10,11 +10,11 @@ This repository documents my Java learning journey through consistent practice w
 
 
 
-\---
+---
 
 
 
-\## 📖 About
+## 📖 About
 
 
 
@@ -22,11 +22,11 @@ The repository is continuously updated as I learn new Java concepts and solve in
 
 
 
-\---
+---
 
 
 
-\## 📂 Repository Structure
+## 📂 Repository Structure
 
 
 
@@ -34,49 +34,49 @@ The repository is organized into topic-wise folders, making it easy to navigate 
 
 
 
-\---
+---
 
 
 
-\## 🎯 Objectives
+## 🎯 Objectives
 
 
 
-\- Strengthen Java fundamentals.
+- Strengthen Java fundamentals.
 
-\- Improve logical and analytical thinking.
+- Improve logical and analytical thinking.
 
-\- Practice writing clean and efficient Java code.
+- Practice writing clean and efficient Java code.
 
-\- Prepare for coding interviews.
+- Prepare for coding interviews.
 
-\- Track my learning journey consistently.
-
-
-
-\---
+- Track my learning journey consistently.
 
 
 
-\## 🛠️ Tech Stack
+---
 
 
 
-\- Java
-
-\- Git
-
-\- GitHub
-
-\- IntelliJ IDEA
+## 🛠️ Tech Stack
 
 
 
-\---
+- Java
+
+- Git
+
+- GitHub
+
+- IntelliJ IDEA
 
 
 
-\## 📈 Progress
+---
+
+
+
+## 📈 Progress
 
 
 
@@ -84,7 +84,7 @@ This repository is actively maintained and updated as I continue learning and pr
 
 
 
-\---
+---
 
 
 
